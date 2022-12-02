@@ -25,7 +25,7 @@ try to make a segond CLI name firebase in the project folder for standalone prob
 try to log, unlog
 try to intall all depndance with npm install -g firebase-tools
 CLI are activated
-All the issue i have found are on this website and nothinks is fixing my probelm : https://www.appsloveworld.com/flutter/100/5/firebasecommandexception-an-error-occured-on-the-firebase-cli-when-attempting-to
+All the issue i have found are on this website and nothinks is fixing my probelm : https://www.appsloveworld.com/flutter/100/5/firebasecommandexception-an-error-occured-onthe-firebase-cli-when-attempting-to
 
 I can run the project with flutter run, the project exist.
 When i Flutter projects:list, the project is here

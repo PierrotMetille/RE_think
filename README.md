@@ -16,21 +16,21 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Problem : 
-When execute command :   flutterfire configure --project=fir-setup-3319c or just flutterfure configure :
-FirebaseCommandException: An error occured on the Firebase CLI when attempting to run a command.
-COMMAND: firebase --version
+When execute command :   flutterfire configure --project=fir-setup-3319c or just flutterfure configure :\
+FirebaseCommandException: An error occured on the Firebase CLI when attempting to run a command.\
+COMMAND: firebase --version\
 ERROR: The FlutterFire CLI currently requires the official Firebase CLI to also be installed, see https://firebase.google.com/docs/cli#install_the_firebase_cli for how to install it.
 
-try to make a segond CLI name firebase in the project folder for standalone problem
-try to log, unlog
-try to intall all depndance with npm install -g firebase-tools
-CLI are activated
-All the issue i have found are on this website and nothinks is fixing my probelm : https://www.appsloveworld.com/flutter/100/5/firebasecommandexception-an-error-occured-onthe-firebase-cli-when-attempting-to
+try to make a segond CLI name firebase in the project folder for standalone problem\
+try to log, unlog\
+try to intall all depndance with npm install -g firebase-tools\
+CLI are activated\
+All the issue i have found are on this website and nothinks is fixing my probelm : https://www.appsloveworld.com/flutter/100/5/firebasecommandexception-an-error-occured-onthe-firebase-cli-when-attempting-to\
 
-I can run the project with flutter run, the project exist.
-When i Flutter projects:list, the project is here
-The project have a config (When make a init agane, say thats there already have one)
-the firebase version is 11.16.1
-Path to firebase.bat and flutter.bat are setup
+I can run the project with flutter run, the project exist.\
+When i Flutter projects:list, the project is here.\
+The project have a config (When make a init agane, say thats there already have one)\
+the firebase version is 11.16.1\
+Path to firebase.bat and flutter.bat are setup\
 
 Note : all of this have been try on a annex project. Ask Pierrot Métille for more.

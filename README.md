@@ -32,3 +32,5 @@ When i Flutter projects:list, the project is here
 The project have a config (When make a init agane, say thats there already have one)
 the firebase version is 11.16.1
 Path to firebase.bat and flutter.bat are setup
+
+Note : all of this have been try on a annex project. Ask Pierrot Métille for more.

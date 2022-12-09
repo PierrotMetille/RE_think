@@ -20,8 +20,12 @@ samples, guidance on mobile development, and a full API reference.
 - [For the Androide Studio Emulateur](https://developer.android.com/studio/run/emulator-acceleration#vm-windows)
 - [For installing Flutter](https://docs.flutter.dev/get-started/install/windows)
 
+## How to run test
+
+## Code structure
 
 ## LICENSE
+
 MIT License
 
 Copyright (c) 2022 PierrotMetille

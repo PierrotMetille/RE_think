@@ -15,10 +15,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-- [For installing Androide Studio](https://developer.android.com/studio?hl=fr&gclid=CjwKCAiAyfybBhBKEiwAgtB7fhbodCGzljOIOklC9Yvvlqf3bgdXQej5zjDeaaH-SlRKJ8yctW4mOBoC9psQAvD_BwE&gclsrc=aw.ds)
+- [Install Androide Studio](https://developer.android.com/studio?hl=fr&gclid=CjwKCAiAyfybBhBKEiwAgtB7fhbodCGzljOIOklC9Yvvlqf3bgdXQej5zjDeaaH-SlRKJ8yctW4mOBoC9psQAvD_BwE&gclsrc=aw.ds)
 
-- [For the Androide Studio Emulateur](https://developer.android.com/studio/run/emulator-acceleration#vm-windows)
-- [For installing Flutter](https://docs.flutter.dev/get-started/install/windows)
+- [Vm acceleration for Androide Studio Emulator](https://developer.android.com/studio/run/emulator-acceleration#vm-windows)
+- [Install Flutter](https://docs.flutter.dev/get-started/install/windows)
 
 ## How to run test
 

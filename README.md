@@ -22,9 +22,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## How to run test
 
-Tests files are stored in the "re-think/test/" folder. To run the tests you'll need to change your configuration.
--In the upper right of android studio's interface switch configuration from "main.dart" to "your_test_file.dart".
--Then you can run the tests without selecting a device. Presse the "run" button to lunch the tests. 
+Tests files are stored in the "re-think/test/" folder. To run the tests you'll need to change your configuration.<br>
+- In the upper right of android studio's interface switch configuration from "main.dart" to "your_test_file.dart".<br>
+- Then you can run the tests without selecting a device. Presse the "run" button to lunch the tests. 
 
 ## Code structure
 

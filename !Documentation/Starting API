@@ -9,3 +9,5 @@ dev doc for insta api : https://developers.facebook.com/docs/instagram/
 there is 2 possible api:
 - Instagram basic API : https://developers.facebook.com/docs/instagram-basic-display-api
 - Instagram Graph API : https://developers.facebook.com/docs/instagram-api
+
+We are going to use the Graph API

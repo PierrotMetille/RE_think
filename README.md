@@ -22,6 +22,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## How to run test
 
+We do not have test for the moment.
+
 ## Code structure
 
 ## LICENSE

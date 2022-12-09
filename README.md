@@ -1,6 +1,6 @@
 # re_think
 
-A new Flutter project.
+A Flutter project made by Garis Miehlbrat and Pierrot Métille.
 
 ## Getting Started
 

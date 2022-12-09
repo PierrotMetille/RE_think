@@ -1,4 +1,4 @@
-# re_think
+# RE_think
 
 A Flutter project made by Garis Miehlbrat and Pierrot Métille.
 

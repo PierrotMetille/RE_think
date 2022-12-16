@@ -36,6 +36,8 @@ Tests files are stored in the "re-think/test/" folder. To run the tests you'll n
 
 ## Code structure
 
+A folder is created for each pages of the app and one for the main. Every folder have a view and a controller.
+
 ## LICENSE
 
 MIT License

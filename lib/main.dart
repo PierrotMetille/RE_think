@@ -1,4 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
+import 'dart:async';
+
+import 'package:flutter/services.dart';
+import 'package:instagram_basic_display_api/instagram_basic_display_api.dart';
+import 'package:instagram_basic_display_api/modules.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,6 +1,7 @@
 # RE_think
 
 A Flutter project made by Garis Miehlbrat and Pierrot Métille.
+The project is a chat app made to debate around a subject. The user will be able to create new cathegories or subject and new debate groups. Users can communicate with each others in private or public groups and with private messages.
 
 ## Getting Started
 
@@ -19,6 +20,13 @@ samples, guidance on mobile development, and a full API reference.
 
 - [Vm acceleration for Androide Studio Emulator](https://developer.android.com/studio/run/emulator-acceleration#vm-windows)
 - [Install Flutter](https://docs.flutter.dev/get-started/install/windows)
+
+## How to run the app
+
+In android studio to run your app you'll need to select a configuration and a device.<br>
+- In the upper right of android studio's interface switch configuration to "main.dart".<br>
+- Then on the left of the configuration select a device where to run the app. It can be on an emulated android device, on a web page or on android phone wired to your computer.  (Be sure to activate [developer mode](https://developer.android.com/studio/debug/dev-options) on the used phone.) 
+- Now you can run your app on the selected device with the green play button.
 
 ## How to run test
 

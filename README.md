@@ -48,7 +48,7 @@ A folder is created for each pages of the app and one for the main. Every folder
 
 For the moment, our structure is the documentation folder create in the androide project. The file and folder where created with the flutter project. 
 
-Re_think
+Re_think<br>
 ├──!Documentation<br>
 ├──android<br>
 ├──build<br>

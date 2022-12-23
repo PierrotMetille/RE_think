@@ -34,11 +34,16 @@ In android studio to run your app you'll need to select a configuration and a de
 
 You can build the project with the following command : `flutter build apk`
 
-## How to run test
-
+## How to run tests
+### In Android studio
 Tests files are stored in the "re-think/test/" folder. To run the tests you'll need to change your configuration.<br>
 - In the upper right of android studio's interface switch configuration from "main.dart" to "your_test_file.dart".<br>
-- Then you can run the tests without selecting a device. Presse the "run" button to lunch the tests. 
+- Then you can run the tests without selecting a device. Presse the "run" button to lunch the tests.
+
+### Run tests in a terminal
+Use the command `flutter test test/your_test_file.dart` to run all the tests from a file.<br>
+To run a single test use this command : `flutter test test/your_test_file.dart --plain-name "Your test name"`<br>
+Don't forget to replace the name of the folder and the name of the test.
 
 ## Code structure
 

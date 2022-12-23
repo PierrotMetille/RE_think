@@ -3,6 +3,7 @@
 A Flutter project made by Garis Miehlbrat and Pierrot Métille.
 The project is a chat app made to debate around a subject. The user will be able to create new cathegories or subject and new debate groups. Users can communicate with each others in private or public groups and with private messages.
 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -38,6 +39,9 @@ Tests files are stored in the "re-think/test/" folder. To run the tests you'll n
 ## Code structure
 
 A folder is created for each pages of the app and one for the main. Every folder have a view and a controller.
+
+## Depot structure
+For the moment, our only reale structure is the documentation folder create in the androide progect. The file and folder where created with the dart progects. 
 
 ## Contributing
 

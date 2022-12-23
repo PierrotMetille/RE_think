@@ -42,8 +42,8 @@ A folder is created for each pages of the app and one for the main. Every folder
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 Please make sure to update tests as appropriate.
+All identifiant and credancial can be give by Pierrot Métille and Garis Miehlbradt via private message.
 
 ## LICENSE
 

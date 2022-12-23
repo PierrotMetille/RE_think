@@ -47,19 +47,19 @@ A folder is created for each pages of the app and one for the main. Every folder
 ## Depot structure
 
 For the moment, our structure is the documentation folder create in the androide project. The file and folder where created with the flutter project. 
-
-Re_think<br>
-├──!Documentation<br>
-├──android<br>
-├──build<br>
-├──ios<br>
-├──lib<br>
-├──linux<br>
-├──macos<br>
-├──test<br>
-├──web<br>
-└──windows<br>
-
+```
+/Re_think
+├──!Documentation
+├──android
+├──build
+├──ios
+├──lib
+├──linux
+├──macos
+├──test
+├──web
+└──windows
+```
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

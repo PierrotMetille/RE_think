@@ -45,7 +45,20 @@ Tests files are stored in the "re-think/test/" folder. To run the tests you'll n
 A folder is created for each pages of the app and one for the main. Every folder have a view and a controller.
 
 ## Depot structure
-For the moment, our only reale structure is the documentation folder create in the androide progect. The file and folder where created with the dart progects. 
+
+For the moment, our structure is the documentation folder create in the androide project. The file and folder where created with the flutter project. 
+
+Re_think
+├──!Documentation<br>
+├──android<br>
+├──build<br>
+├──ios<br>
+├──lib<br>
+├──linux<br>
+├──macos<br>
+├──test<br>
+├──web<br>
+└──windows<br>
 
 ## Contributing
 

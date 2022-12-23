@@ -1,0 +1,13 @@
+We gonna use the instagramm API for our aplication
+
+How to have a API Token for insta : https://iwanttolearnruby.com/how-to-get-an-instagram-api-key-for-your-app/
+
+Token generator : https://developers.facebook.com/docs/instagram-basic-display-api/overview#user-token-generator
+
+dev doc for insta api : https://developers.facebook.com/docs/instagram/
+
+there is 2 possible api:
+- Instagram basic API : https://developers.facebook.com/docs/instagram-basic-display-api
+- Instagram Graph API : https://developers.facebook.com/docs/instagram-api
+
+We are going to use the Graph API

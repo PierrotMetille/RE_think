@@ -28,11 +28,17 @@ samples, guidance on mobile development, and a full API reference.
 In android studio to run your app you'll need to select a configuration and a device.<br>
 - In the upper right of android studio's interface switch configuration to "main.dart".<br>
 - Then on the left of the configuration select a device where to run the app. It can be on an emulated android device, on a web page or on android phone wired to your computer.  (Be sure to activate [developer mode](https://developer.android.com/studio/debug/dev-options) on the used phone.) 
-- Now you can run your app on the selected device with the green play button or with the command `flutter run`. 
+- Now you can run your app on the selected device with the green play button or with the command : 
+```
+flutter run
+``` 
 
 ## Compile the project
 
-You can build the project with the following command : `flutter build apk`
+You can build the project with the following command : 
+```
+flutter build apk
+```
 
 ## How to run tests
 ### In Android studio
@@ -41,8 +47,14 @@ Tests files are stored in the "re-think/test/" folder. To run the tests you'll n
 - Then you can run the tests without selecting a device. Presse the "run" button to lunch the tests.
 
 ### Run tests in a terminal
-Use the command `flutter test test/your_test_file.dart` to run all the tests from a file.<br>
-To run a single test use this command : `flutter test test/your_test_file.dart --plain-name "Your test name"`<br>
+To run all the tests from a file use the command :
+```
+flutter test test/your_test_file.dart
+```
+To run a single test in a file use this command : 
+```
+flutter test test/your_test_file.dart --plain-name "Your test name"
+```
 Don't forget to replace the name of the folder and the name of the test.
 
 ## Code structure

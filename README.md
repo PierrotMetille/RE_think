@@ -28,7 +28,11 @@ samples, guidance on mobile development, and a full API reference.
 In android studio to run your app you'll need to select a configuration and a device.<br>
 - In the upper right of android studio's interface switch configuration to "main.dart".<br>
 - Then on the left of the configuration select a device where to run the app. It can be on an emulated android device, on a web page or on android phone wired to your computer.  (Be sure to activate [developer mode](https://developer.android.com/studio/debug/dev-options) on the used phone.) 
-- Now you can run your app on the selected device with the green play button. You can also compile with the following command : _dart compile exe bin/myapp.dart_
+- Now you can run your app on the selected device with the green play button. 
+
+## Compile the project
+
+You can build the project with the following command : `flutter build apk`
 
 ## How to run test
 

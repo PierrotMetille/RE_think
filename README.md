@@ -20,6 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - [Vm acceleration for Androide Studio Emulator](https://developer.android.com/studio/run/emulator-acceleration#vm-windows)
 - [Install Flutter](https://docs.flutter.dev/get-started/install/windows)
+- [How to use package](https://dart.dev/guides/packages)
 
 ## How to run the app
 
